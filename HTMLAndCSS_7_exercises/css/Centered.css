@@ -1,0 +1,34 @@
+html,
+body,
+.main {
+    height: 100%;
+}
+
+.main,
+.first-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-circle {
+    border: #345995 solid 50px;
+    
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.second-circle,
+.fourth-circle {
+    border: white solid 50px;
+}
+
+.third-circle {
+    border: #03CEA4 solid 50px;
+}
+
+.fifth-circle {
+    border: red solid 220px;
+}
