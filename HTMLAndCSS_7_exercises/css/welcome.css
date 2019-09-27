@@ -1,0 +1,33 @@
+html,body, .main{
+    height:100%;
+     overflow: hidden;
+}
+.main{
+    display:flex;
+     align-items: center;
+    justify-content: center;
+}
+p{
+    color: red;
+    font-size: 130px;
+}
+header,footer{
+    background-color:#345995;
+    padding:140px;
+    border-radius: 50%;
+}
+header{
+    margin-top:-220px ;
+    margin-bottom: 55px;
+    margin-left: -70px;
+    margin-right: -70px;
+}
+footer{
+    margin-top:55px ;
+    margin-bottom: -300px;
+    margin-left: -70px;
+    margin-right: -70px;
+     
+}
+}
+ 
